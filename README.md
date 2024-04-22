@@ -1,4 +1,4 @@
-#응애 개발자 이승엽입니다. 하하하
+응애 개발자 이승엽입니다 하하하
 <div align="center">
 <img src="https://i.namu.wiki/i/uIt7OBpwNR2Cgk90eW_s_0iAZ6628xqGiRY1YyG5drpYaFwXo4ZAKKLltMDxLc2qPyky0s6D9bociJ770v2mwA.webp" align="center" style="width: 100%" />
 </div>  
